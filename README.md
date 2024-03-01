@@ -1,4 +1,4 @@
-### Olá esse é meu perfil### Olá esse é meu perfil
+### Olá esse é meu perfil
 
 meu nome é Victor Thiago
 -Estou estudando na Plataforma [Alura](https://www.alura.com.br/)
@@ -12,4 +12,6 @@ umbelino.victor@escola.pr.gov.br
 
 @victortiago
 
-![]https://media1.tenor.com/m/68ggIeBw7jQAAAAd/catjam-cat.gif)
+![]_https://media1.tenor.com/m/68ggIeBw7jQAAAAd/catjam-cat.gif)
+
+
